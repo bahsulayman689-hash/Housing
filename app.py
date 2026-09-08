@@ -145,16 +145,16 @@ with st.sidebar:
     st.caption("Tabular Framework Optimization & Low-Latency Inference Deployments")
     st.divider()
     st.markdown("🌐 **Connect or Follow Execution:**")
-    st.caption("🔗 [GitHub Production Profile](https://github.com)")
-    st.caption("💼 [LinkedIn Professional Network](https://linkedin.com)")
-    st.caption("Email test ")
+    st.caption("🔗 [GitHub Production Profile](https://github.com/bahsulayman689-hash/Housing)")
+    st.caption("💼 [LinkedIn Professional Network](https://www.linkedin.com/in/sulayman-bah-8a7096423/)")
+
 
 # ==========================================================
 # MAIN INTERFACE
 # ==========================================================
-logo_path = "logo.png"
+logo_path = "market-growth.png"
 if os.path.exists(logo_path):
-    st.image(logo_path, width=80)
+    st.image(logo_path, width=120)
 
 st.title("🏠 Advanced House Price Prediction Engine & Observability Suite")
 
